@@ -1,0 +1,13 @@
+# postr.desktop - Integrate postr into
+#                 the "Send To" menu.
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+TryExec=telegram
+Exec=bash to_telegram.sh %F
+Path=/home/joselito/.local/share/Thunar/sendto
+Terminal=false
+Icon=telegram.ico
+Name=TelegramYourself
+#MimeType=image/jpeg;
