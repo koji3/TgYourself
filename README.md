@@ -10,7 +10,9 @@ Send yourself any file from contextual menu
 ### Thunar
 
   mkdir home/USER/.local/share/Thunar/sendto
+  
   mv TelegramYourself.desktop home/USER/.local/share/Thunar/sendto/
+  
   mv to_telegram.sh home/USER/.local/share/Thunar/sendto/
   
 ### More soon...
