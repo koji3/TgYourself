@@ -21,3 +21,8 @@ Send yourself any file from contextual menu
 Edit the .desktop file and set the correct path in the field "Path"
 Edit the .sh file and set the variable "username" to your telegram user (Name Lastname with all spaces changed to underscores. You can see the correct format if you simply run 'telegram'). This user will receive your files.
 Execute at least one time 'telegram' for the initial configuration.
+
+##To do
+
+* graphical interface
+* installation script
