@@ -3,8 +3,8 @@ Send yourself any file from contextual menu
 
 ## Dependencies
 
-*[Telegram-cli](https://github.com/vysheng/tg)
-*notify-send
+* [Telegram-cli](https://github.com/vysheng/tg)
+* notify-send
  
 ## Installation
 ### Thunar
